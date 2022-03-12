@@ -1,0 +1,215 @@
+@font-face {
+    font-family: fondacy_carved;
+    src: url("Fondacy\ Carved.otf");
+}
+   *{
+       font-family:fondacy_carved ;
+   }
+
+.navbar{
+    background-color: rgba(0,0,0,1);
+    height:70px;
+    
+    }
+    .navbar ul{
+        overflow: auto;
+    }
+    .navbar li{
+        float:left;
+       
+        list-style: none;
+        margin:25px 15px;
+        font-size: 25PX;
+    }
+    li:hover{
+        color:green;
+
+    }
+    .folio{
+        color:magenta;
+        margin-top: -30px;
+        margin-left: 50px;
+
+    }
+    
+  
+    .one{
+        height:600px;
+        width:550px;
+        background-color: rgba(0,0,0,1);
+        margin-top: 2px;
+    }
+    .mypic{
+        height:300px;
+        width:300px;
+        border-radius: 150px;
+        margin-top: 90px;
+        margin-left: 120px;
+    }
+   mypic:hover{
+       box-shadow: 1px 2px 2px 10px yellow;
+   }
+    body{
+        background-color:rgba(0,0,0,.8);
+    }
+    h3{
+color:white;
+    }
+    .cl{
+        color:white;
+    }
+    .detail{
+        margin-left: 180px;
+        margin-top: 20px;
+    }
+    .d2{
+        margin-left: -30px;
+        font-size: 30px;
+        color:white
+        
+
+    }
+    .cl{
+        margin-left: -60px;
+        font-size: 25px;
+        margin-top: -20px;
+    }
+    .c4{
+        margin-left: 50px;
+        font-size: 25px;
+        color: white;
+        margin-top: -30px;
+    }
+    .two{
+        height:600px;
+        width: 965px;
+        background-color:black;
+        margin-top: -600px;
+        margin-left: 552px;
+    }
+    .bo{
+        border: 1px solid yellow;
+        height:500px;
+        width:400px;
+        background-color:rgba(0,0,0,.5);
+        opacity: 0.8;
+        border-radius: 5px;
+        box-shadow: 1px 2px 2px 4px yellow;
+        padding-top: -50px;
+
+       
+      
+    }
+    .k{
+        margin-left: 800px;
+        margin-top: -550px;
+    }
+    .but{
+        height:50px;
+        width:300px;
+        background-color: black;
+        color:yellow;
+        border:  3px solid yellow;
+        border-radius: 30px;
+        margin-top: 30px;
+        margin-left: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-shadow: 1px 1px 1px 1px yellow;
+    }
+    .bo1{
+        border: 1px solid yellow;
+        height:500px;
+        width:400px;
+        background-color:rgba(0,0,0,.5);
+        opacity: 0.8;
+        border-radius: 5px;
+        box-shadow: 1px 2px 2px 4px yellow;
+        padding-top: -50px;
+
+    }
+    .but1{
+        height:50px;
+        width:300px;
+        background-color: black;
+        color:yellow;
+        border:  3px solid yellow;
+        border-radius: 30px;
+        margin-top: 30px;
+        margin-left: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-shadow: 1px 1px 1px 1px yellow;
+    }
+    .k1{
+       margin-left: 70px;
+       margin-top: -550px;
+       
+    }
+    .two2{
+        height:600px;
+        width: 965px;
+        background-color:black;
+        margin-top: -551px;
+        margin-left: 553px;
+    
+    }
+    .ori{
+        color:yellow;
+    
+    }
+    .tong{
+        margin-left: 950px;
+        margin-top: -660px;
+    }
+    .he{
+        color:white;
+        margin-left: 600px;
+        margin-top: 100px;
+      
+    }
+.mo{
+    color:white;
+    font-size: 20px;
+    margin-left: 600px;
+    margin-right: 100px;
+
+
+}
+li{
+    color:white;
+    margin-left: 800px;
+}
+
+.d1{
+    color:white;
+    font-size: 20px;
+}
+.condet{
+    margin-left: 800px;
+    margin-top: 50px;
+}
+    
+.logos{
+    height:50px;
+    width:50px;
+    border-radius: 30px;
+}
+.logo{
+    margin-left: 900px;
+    margin-top: 50px;
+}
+.dot{
+    color: white;
+    font-size: 25px;
+    margin-left: 1350px;
+}
+.ico{
+    height:40px;
+    widht:40px;
+    border-radius: 20px;
+    
+}
+.mi{
+    margin-left: -100px;
+    margin-bottom: -60px;
+    
+}
